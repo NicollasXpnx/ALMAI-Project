@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PacientesALMAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c792da04feb59f5d7fa5a3f83d98100efd90738")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67508e8d64522ebbe4c0bea1028ec3fd345b20f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PacientesALMAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PacientesALMAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
